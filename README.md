@@ -1,9 +1,8 @@
 
-#### Hi! 👋 I am currently a student at UChicago majoring in CS.
+#### Hi! 👋 I am currently a student at UChicago majoring in CS and Visual Arts
 
 
 **What I'm currently working on:**
-- learning git 
-- finding and joining an open source project
-- deciding on and completing personal coding projects
-
+- learning Python and Web Development
+- coding a website using HTML, CSS, and JavaScript
+- exploring career paths in tech
